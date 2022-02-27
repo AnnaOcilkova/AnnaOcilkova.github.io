@@ -1,0 +1,84 @@
+body{
+  background-image: url('assets/background.png');
+}
+
+.box {
+  background-color: #333333;
+  height: 60px;
+  font-size: small;
+  padding: 0% 10% 0% 10%;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.menu, .menu:visited {
+  color: #ff0099;
+  font-size: 18px;
+
+}
+
+#menu1 {
+  padding: 10px 0px 10px 0px;
+}
+
+#menu2 {
+  padding: 20px 100px 15px 50%;
+  position: absolute;
+}
+
+#menu3 {
+  padding: 20px 100px 15px 55%;
+  position: absolute;
+}
+
+#menu4 {
+  padding: 20px 100px 15px 60%;
+  position: absolute;
+}
+
+#menu5 {
+  padding: 20px 100px 15px 65%;
+  position: absolute;
+}
+
+h1, h2, h3, h4{
+  font-family: 'Roboto Slab', serif;
+  padding: 0% 10%;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 70px;
+  padding: 5% 10% 0% 10%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 40px;
+  color: #ff0099;
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+p {
+  padding: 0% 10% 0% 10%; 
+  font-family: 'Courier Prime', monospace;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+#separator {
+  text-align: center;
+}
+
+
+
